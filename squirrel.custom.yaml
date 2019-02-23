@@ -1,0 +1,5 @@
+patch:
+    "style/horizontal": true
+    #show_notifications_when: always # never, appropriate, always 
+    "style/font_point": 18
+
